@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  font-size: 16px;
+}
+header{
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+nav ul{
+  display: flex;
+  justify-content: space-around;
+  
+}
+nav ul li{
+  margin-left: 1.8em;
+  font-size: 1.2em;
+}
+nav ul li  a{
+  text-decoration: none;
+  color: black;
+}
+#logo{
+  width: 10vw;
+  height:10vw;
+  border-radius: 5vw;
+}
