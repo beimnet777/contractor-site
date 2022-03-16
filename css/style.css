@@ -124,7 +124,7 @@ article{
 #contact{
   height: 40vh;
   background-color: black;
-  margin-top: 80px;
+  margin-top: 50px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -140,6 +140,13 @@ footer{
   align-items: center;
 
   
+}
+footer p{
+  margin-top: 5px;
+}
+footer p a{
+  text-decoration: none;
+  color: white;
 }
 #contact ul li{
   list-style: none;
