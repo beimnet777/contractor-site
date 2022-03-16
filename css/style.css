@@ -106,7 +106,7 @@ article{
   margin-left: auto;
   margin-right: auto;
   border: 1px rgb(104, 103, 103,.05) solid;
-  box-shadow: 1px 1px 1px 1px rgb(119, 119, 119,.1);
+  box-shadow: 1px 1px 1px 1px rgba(128, 128, 128, 0.1);
   padding: 20px;
   display: flex;
   justify-content: space-evenly;
@@ -117,7 +117,12 @@ article{
   width:30vw;
 }
 #test-cont{
-  background-color: rgba(233, 233, 233, 0.5);
+  background-color: rgba(233, 233, 233, 0.05);
   padding: 20px;
   margin-top: 120px; 
+}
+footer{
+  height: 26vh;
+  background-color: rgb(3, 3, 3,.5);
+  margin-top: 80px;
 }
