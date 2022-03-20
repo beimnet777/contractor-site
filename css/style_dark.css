@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(24, 24, 24);
+}
+h2 span {
+  border-bottom: 1px rgb(240, 240, 240) solid;
+}
+header {
+  background-color: rgba(26, 26, 26, 1);
+  color: azure;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-size: 1.1em;
+}
+nav ul li a:hover {
+  color: rgb(51, 230, 221);
+}
+
+.card {
+  box-shadow: 2.5px 2.5px 2.5px 3.5px rgba(255, 255, 255, 1);
+  background-color: black;
+  color: rgb(255, 255, 255);
+}
+.card:hover {
+  box-shadow: rgb(255, 255, 255) 18px 18px;
+}
+
+.testimony {
+  border: 1px rgb(104, 103, 103, 1) solid;
+  box-shadow: 1px 1px 1px 1px rgba(128, 128, 128, 0.1);
+  color: rgb(255, 255, 255);
+}
+
+#test-cont {
+  background-color: rgba(7, 7, 7, 1);
+  padding: 20px;
+  margin-top: 120px;
+}
+#contact {
+  height: 40vh;
+  background-color: rgb(46, 46, 46);
+}
+footer {
+  background-color: rgb(3, 3, 3, 0.9);
+
+  color: rgb(255, 255, 255);
+}
+
+footer p a {
+  color: white;
+}
+
+#contact ul li a {
+  color: white;
+}
+h2{
+  color: rgb(255, 255, 255);
+}
